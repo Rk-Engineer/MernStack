@@ -1,0 +1,26 @@
+.main_head{
+    color: blue;
+}
+.next_head{
+    color: red;
+}
+
+#head_para{
+    /* color: #DB7F43; */
+    font-size: 16px;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: "Open San", sans-serif;
+    font-weight: 900;
+}
+.para{
+    
+    text-align: justify;
+    /* font-size: 1rem; */
+    font-size: 20px;
+    
+}
+#sample{
+    font-size: large;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
